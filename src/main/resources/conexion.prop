@@ -1,0 +1,4 @@
+driver=org.sqlite.JDBC
+url=jdbc:sqlite:C:/Users/miche/eclipse-workspace/BD_SQLite/central_reservas.sqlite
+user=
+password=
